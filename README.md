@@ -24,3 +24,5 @@ Por ahora, el tablero básico permite enfrentar un máximo de 4 contra 4 cartas.
     El resto de ideas se seguirán desarrollando en los streams siguientes
   </li>
 </ul>
+
+kkkkk
