@@ -1,6 +1,7 @@
 # juego-cartas-con-suscriptores
 ¡Bienvenido a este simple juego de cartas hecho con las tecnologías HTML5, Javascript y Bootstrap! El proyecto está desarrollado enteramente durante streams en https://www.twitch.tv/javadevone y todas las cartas han sido creada por los suscriptores, followers y fans de Javadevone (canal de YouTube: https://www.youtube.com/c/javadevone)
 
+as
 
 <h2>Idea del juego</h2>
 <p>
@@ -9,7 +10,7 @@ El objetivo es crear un juego de cartas con un componente estratégico. A difere
 <p>
 Por ahora, el tablero básico permite enfrentar un máximo de 4 contra 4 cartas. El resto de conceptos están por definir
 </p>
-
+si
 <h2>Detalles de las cartas</h2>
 <ul>
   <li>Todas las cartas han sido dibujadas por los fans, suscriptores y seguidores de las diferentes redes sociales de Javadevone. Se permite un máximo de 1 carta por persona, tamaño de 300x300 en formato PNG, JPG o GIF.
